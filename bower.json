@@ -1,0 +1,23 @@
+{
+  "name": "angular-custom-filters",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Abdiliban/angular-custom-filters",
+  "authors": [
+    "Abdi Liban <abdiliban@hotmail.se>"
+  ],
+  "description": "A set of custom filters for angularjs",
+  "main": "src/angular-custom-filters.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples"
+  ],
+  "dependencies": {
+    "angularjs": "~1.2.21"
+  }
+}
